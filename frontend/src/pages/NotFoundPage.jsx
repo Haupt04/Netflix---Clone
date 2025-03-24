@@ -1,10 +1,11 @@
 import { Link } from "react-router-dom";
 
 const NotFoundPage = () => {
+	
     return (
 		<div
-			className='min-h-screen bg-cover bg-center flex flex-col justify-center items-center text-white'
-			style={{ backgroundImage: `url('/404.png')` }}
+			className='h-screen bg-cover bg-center flex flex-col justify-center items-center text-white overflow-hidden'
+			style={{ backgroundImage: `url('/404.png')`, height: "120vh" }}
 		>
 			<header className='absolute top-0 left-0 p-4 bg-black w-full '>
 				<Link to={"/"}>
