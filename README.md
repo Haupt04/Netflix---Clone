@@ -2,13 +2,13 @@
 
 ![Netflix Clone](https://github.com/user-attachments/assets/bf8bed41-af0a-451b-a8d1-ef37106e9ebd)
 
-🚀 Overview
+## Overview
 
 This project is a full-stack Movie & TV Show web application built with the latest technologies. It allows users to explore movies, search for actors, watch trailers, and much more.
 
 
 
-⚛️ Tech Stack
+## Tech Stack
 
 Frontend: React.js, Tailwind CSS
 
@@ -22,7 +22,7 @@ API: The Movie Database (TMDB)
 
 
 
-✨ Features
+## Features
 
 🔐 User authentication with JWT
 
@@ -48,45 +48,41 @@ API: The Movie Database (TMDB)
 
 Note: The website will spin down with inactivity, which can delay requests by 50 seconds or more.
 
-📦 Setup & Installation
+## Usage
 
+- Users can create an account or use the demo account:
+  - **Username:** `korra@gmail.com`
+  - **Password:** `123456`
+
+
+
+## Setup & Installation
 
 
 
 1️⃣ Clone the Repository
-
+```bash
 git clone https://github.com/your-username/your-repo.git
-
-
 cd your-repo
-
+```
 2️⃣ Install Dependencies
-
+```bash
 npm install
-
+```
 3️⃣ Setup Environment Variables
-
+```bash
 Create a .env file in the root directory and add the following:
 
+
 PORT=5000
-
-
 MONGO_URI=your_mongo_uri
-
-
 NODE_ENV=development
-
-
 JWT_SECRET=your_jwt_secret
-
-
 TMDB_API_KEY=your_tmdb_api_key
-
+```
 
 4️⃣ Run the App Locally
-
+```bash
 npm run build
-
-
 npm run start
-
+```
