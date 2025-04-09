@@ -4,8 +4,7 @@
 
 ## Overview
 
-This project is a full-stack Movie & TV Show web application built with the latest technologies. It allows users to explore movies, search for actors, watch trailers, and much more.
-
+This project is a full-stack Netflix Clone website built with the latest technologies. It allows users to explore movies, search for actors, watch trailers, and much more.
 
 
 ## Tech Stack
