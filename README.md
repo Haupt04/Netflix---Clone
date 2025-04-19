@@ -85,3 +85,7 @@ TMDB_API_KEY=your_tmdb_api_key
 npm run build
 npm run start
 ```
+
+## Acknowledgements
+This project was created with the help of the following tutorial:
+ FREE Coding Bootcamp - Build 4 Full Stack Projects in 23 Hours ([YouTube Link](https://www.youtube.com/watch?v=MDZC8VDZnV8)) by Codesistency.
